@@ -1,0 +1,20 @@
+{
+  "name": "@pipeworx/mcp-riot-games",
+  "version": "0.1.0",
+  "description": "Riot Games API: accounts, summoners, matches, league entries, champion mastery.",
+  "type": "module",
+  "main": "src/index.ts",
+  "types": "src/index.ts",
+  "keywords": ["mcp", "mcp-server", "model-context-protocol", "pipeworx", "riot-games"],
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/pipeworx-io/mcp-riot-games"
+  },
+  "scripts": {
+    "typecheck": "tsc --noEmit"
+  },
+  "devDependencies": {
+    "typescript": "^5.7.0"
+  }
+}
