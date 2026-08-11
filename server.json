@@ -2,8 +2,8 @@
   "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
   "name": "io.github.pipeworx-io/riot-games",
   "title": "Riot Games",
-  "description": "Riot Games API: accounts, summoners, matches, league entries, champion mastery.",
-  "version": "0.1.0",
+  "description": "Riot Games API MCP.",
+  "version": "0.1.1",
   "websiteUrl": "https://pipeworx.io/packs/riot-games",
   "repository": {
     "url": "https://github.com/pipeworx-io/mcp-riot-games",

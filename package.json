@@ -1,7 +1,7 @@
 {
   "name": "@pipeworx/mcp-riot-games",
-  "version": "0.1.0",
-  "description": "Riot Games API: accounts, summoners, matches, league entries, champion mastery.",
+  "version": "0.1.1",
+  "description": "Riot Games API MCP.",
   "type": "module",
   "main": "src/index.ts",
   "types": "src/index.ts",
