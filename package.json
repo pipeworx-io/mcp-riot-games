@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-riot-games",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "description": "Riot Games API MCP.",
   "type": "module",
   "main": "src/index.ts",
@@ -26,7 +26,7 @@
     "@cloudflare/workers-types": "^4.20260405.1"
   },
   "pipeworx": {
-    "sourceHash": "v1-019bada5ef7afbbc1535494233b264b123253b4e70909feb28edff706de70cd3",
-    "sourceCommit": "00c836ddeaecbdd581dcfb0fb1842efea104006e"
+    "sourceHash": "v1-3876a466cf1ef782c663dae91d7218ef98bcf1c524e1236afdb25b023b4817dd",
+    "sourceCommit": "6fe8fb3e01138dfc4ebe7d5c246503aab9278d06"
   }
 }
